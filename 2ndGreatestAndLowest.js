@@ -24,4 +24,4 @@ function j(){
     console.log(jmin);
     
   }
-  j()
+  j();
